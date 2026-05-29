@@ -61,7 +61,6 @@ python orbit_engine.py --auto
 orbit-data-engine/
 ├── orbit_engine.py          # Main engine — schema, data, triggers, views, DSA
 ├── orbit_engine_docs.md     # Full documentation (ERD, SQL, algorithms)
-├── viva_preparation.md      # 33 Q&As for project defense
 └── README.md                # This file
 ```
 
